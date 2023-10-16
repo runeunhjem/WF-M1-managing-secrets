@@ -1,4 +1,3 @@
-// Description: Test the .env file
 require("dotenv/config");
 
 function test(expectedSecret) {
